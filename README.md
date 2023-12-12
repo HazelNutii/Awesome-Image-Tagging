@@ -1,4 +1,4 @@
-# Awesome-Image-Tagging
+# Awesome-Image/video-Tagging
 
 # Awesome Tagging
 🚀🚀🚀*Keyword: image tagging, multi-label image recognition,  video tagging*
