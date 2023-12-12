@@ -28,6 +28,15 @@ normally based on manual annotations
 - Pascal
 - OpenImages
 
+  text-video dataset
+- InternVid (2023) generated open domain
+- MSR-VTT manual
+- DideMo manual
+- YouCook2 manual
+- VideoCC3M transfer
+- HowTo100M ASR
+- ...
+
 ## Video Tagging
 
 
